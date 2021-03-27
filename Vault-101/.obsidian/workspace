@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Greedy Quiz.md",
                 "mode": "source"
               }
             }
@@ -23,8 +23,11 @@
             "id": "540ffcadef91f3ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ordered Incides.md",
+                "mode": "preview"
+              }
             }
           }
         ],
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Greedy Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Chapter 7 notes.md",
-    "Untitled.md",
     "Greedy Quiz.md",
     "Exchange argument.md",
-    "4th Semester/Algorithm and Design Analysis.md",
-    "Midsem Submission.md",
-    "Strassen's Algorithm.md",
-    "README.md",
-    "README.md.md"
+    "Magnetic Disks.md",
+    "Masters Theorem.md",
+    "Untitled 2.md",
+    "Indexing and Hashing.md",
+    "Bitmap Indexes.md",
+    "Ball Weight Optimization.md",
+    "Untitled 1.md",
+    "Chapter 7 notes.md"
   ]
 }
