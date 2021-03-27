@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "844d88870cc0c446",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d3169bc52862aef",
+        "type": "split",
+        "children": [
+          {
+            "id": "742a97b84a0dce2e",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "540ffcadef91f3ad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7808ed307c96ee92",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0dc66ce09523332",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee510387656bfdef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "361a79ae0c92b661",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#CSE222",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "a77c920354bd580c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4497c224b8e2206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e93974227e1765dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Chapter 7 notes.md",
+    "Untitled.md",
+    "Greedy Quiz.md",
+    "Exchange argument.md",
+    "4th Semester/Algorithm and Design Analysis.md",
+    "Midsem Submission.md",
+    "Strassen's Algorithm.md",
+    "README.md",
+    "README.md.md"
+  ]
+}
