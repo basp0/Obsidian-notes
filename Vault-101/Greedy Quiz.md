@@ -1,3 +1,4 @@
+#CSE222 
 ## Problem Statement
 We are given a list of n songs, the $i^{th}$ song has a corresponding energy level $s_i$. Jatin has to perform for $n$ nights, the crowd on the $i^{th}$  night has energy level $e_i$ we have to minimize:
 $$\sum_i(e_i-s_i)^2$$
